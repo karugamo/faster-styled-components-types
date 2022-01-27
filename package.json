@@ -1,6 +1,6 @@
 {
   "name": "faster-styled-components-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Faster but less complete @types/styled-components",
   "keywords": [
     "styled-components",
