@@ -1,0 +1,13 @@
+{
+  "name": "faster-styled-components-types",
+  "version": "1.0.0",
+  "description": "Faster but less complete @types/styled-components",
+  "keywords": [
+    "styled-components",
+    "types",
+    "typescript",
+    "typings"
+  ],
+  "author": "Karugamo",
+  "license": "ISC"
+}
