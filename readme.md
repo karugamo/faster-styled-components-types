@@ -24,7 +24,7 @@ go to your `tsconfig.json` and change `typeRoots` to this:
 ```json
 {
   "compilerOptions": {
-    "typeRoots": ["./node_modules/@types/", "./node_modules/faster-styled-components-types"]
+    "typeRoots": ["./node_modules/@types/", "./node_modules/faster-styled-components-types/"]
   }
 }
 ```
