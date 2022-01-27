@@ -15,7 +15,7 @@ npm r @types/styled-components @types/styled-components-react-native
 Then install the alternative typings:
 
 ```bash
-npm i faster-styled-component-types
+npm i faster-styled-components-types
 ```
 
 Since our types arer not prefixed with `@types`, you then need to
